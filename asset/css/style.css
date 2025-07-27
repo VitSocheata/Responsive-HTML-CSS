@@ -633,38 +633,8 @@ header {
 
   .about {
     /* top: 4700px; */
-    /* padding: 10px!important; */
     display: none;
   }
-
-  /* .col-2{
-    order: 1;
-  }
-  .col-5{
-    order: 2;
-  }
-  
-  .col-5 .card{
-    text-align: start;
-  }
-  .col-5 .card .text-muted{
-    left: -30px;
-  }
-  .col-2 .card,
-  .col-5 .card{
-    height: 400px;
-  }
-  .col-2 hr{
-    display: none;
-  }
-  .col-5 .card .timeline-heading{
-    font-size: 16px;
-  }
-  .col-2 .card img,
-  .col-2 .card .text{
-    width: 80%;
-    height: 20%;
-  } */
 
   .team {
     top: 4700px;
